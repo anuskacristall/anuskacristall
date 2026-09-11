@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f72585,50:7209b7,100:4361ee&height=150&section=header" width="100%" />
 </div>
 
-<h1 align="center">✨ Hey, I'm Anuska! / Olá, sou a Anuska! 👋</h1>
+<h1 align="center">✨ Hey, I'm Anuska! ✨</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuskacristal/" target="_blank">
