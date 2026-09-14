@@ -15,13 +15,13 @@
 
 ## 👩‍💻 About Me / Sobre Mim
 
-> 🎓 **Undergrad & Intern:** Information Systems undergrad & tech intern at SEBRAE Minas.  
-> *(Graduanda em Sistemas de Informação & estagiária de tecnologia no SEBRAE Minas.)*
+> 🎓 **Undergrad & Intern:** Information Systems undergrad & intern at SEBRAE Minas.  
+> *(Graduanda em Sistemas de Informação & estagiária no SEBRAE Minas.)*
 
-* 💡 **Building & Automating:** Building web apps, exploring data, and turning logic into sleek, functional code. I like leveraging AI as a dev copilot to speed up fullstack builds and streamline workflow.  
-  *(Desenvolvendo aplicações web, explorando dados e transformando lógica em código elegante e funcional. Utilizo IA como copiloto para acelerar entregas fullstack e otimizar fluxos de trabalho.)*
-* 🎨 **Creative Edge:** Design-minded, ex-content creator, focused on clean UI/UX.  
-  *(Diferencial criativo: Olhar voltado para design, ex-criadora de conteúdo e foco em UI/UX limpo.)*
+* 💡 **Building & Automating:** Building web apps, exploring data, and turning logic into functional code. I like leveraging AI as a dev copilot to speed up fullstack builds and streamline workflow.  
+  *(Desenvolvendo aplicações web, explorando dados e transformando lógica em código funcional. Utilizo IA como copiloto para acelerar entregas fullstack e otimizar fluxos de trabalho.)*
+* 🎨 **Creative Edge:** Design-minded, content creator, focused on clean UI/UX.  
+  *(Diferencial criativo: Olhar voltado para design, criadora de conteúdo e foco em UI/UX limpo.)*
 * ⚡ **Currently:** Crafting interactive web tools, automating workflows & shipping projects that solve real problems.  
   *(Atualmente: Construindo ferramentas web interativas, automatizando processos e entregando projetos que resolvem problemas reais.)*
 
